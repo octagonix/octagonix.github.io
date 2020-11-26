@@ -6,7 +6,7 @@
 
 ## Доступные продукты:
 
-- HWFaker
+- [HWFaker](hwfaker)
 - Word.ly *(Не поддерживается)*
 - Mathe.matica CE *(Не поддерживается)*
 
@@ -19,3 +19,4 @@
   !: Напиши на _octagonix.official@gmail.com_ и в теме письма укажи _support_
 
 # Спасибо за скачивание моих программ)
+
