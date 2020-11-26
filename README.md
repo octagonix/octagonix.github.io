@@ -1,4 +1,6 @@
-## Добро пожаловать на страницу OctagoniX a.k.a Tapeline a.k.a Iliasolin
+# OctagoniX a.k.a Iliasolin
+
+## Добро пожаловать на страницу OctagoniX a.k.a Iliasolin
 
 Здесь вы сможете найти мои программы и скачать их
 
