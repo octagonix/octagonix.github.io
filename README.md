@@ -7,6 +7,10 @@
 ## Доступные продукты:
 
 - [HWFaker](hwfaker)
+- [Sentence](https://github.com/octagonix/Sentence/releases)
+
+## Снятые с публикации:
+
 - Word.ly *(Не поддерживается)*
 - Mathe.matica CE *(Не поддерживается)*
 
